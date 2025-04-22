@@ -3,7 +3,7 @@
 namespace PortfolioCore.Models.ViewComponents
 
 {
-    public class _DefaultHeadComponentsPartial : ViewComponent
+    public class _DefaultHeadComponentPartial : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
